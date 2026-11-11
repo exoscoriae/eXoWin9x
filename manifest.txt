@@ -1,3 +1,3 @@
 ; eXoWin9x update manifest
 ; EXAMPLE
-;20261111|https://github.com/exoscoriae/eXoWin9x/releases/download/Update/update9x_20261111.zip|fbafe4940d7b2a26cfe09aeecd17972ce275c04b40edbd469adc4381fc988bb9|Updater test
+20261111|https://github.com/exoscoriae/eXoWin9x/releases/download/Update/update9x_20261111.zip|16b22f923157415f11540a327a928dbd4d3a89c7e7e2fa9fef3dd80e493c2e4d|Replace Manual and Update Setup file
